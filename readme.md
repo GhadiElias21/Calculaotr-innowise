@@ -13,7 +13,7 @@ The `Calculator` class is a JavaScript implementation of a basic calculator that
 
 ## Live Preview
 
-[Check out the live preview of the calculator here]('https://calc-innnowise.netlify.app/')
+[Check out the live preview of the calculator here](https://calc-innnowise.netlify.app/)
 
 ## Constructor
 

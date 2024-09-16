@@ -1,6 +1,19 @@
+![{E360B373-B410-49FC-B146-B60533651339}](https://github.com/user-attachments/assets/b8dc796f-161b-45dc-825e-41b1bf932276)
+
+![{2EF4AE96-9BB7-4CC0-99A1-85933A200FEE}](https://github.com/user-attachments/assets/00252191-5120-4f70-80ee-70b474701818)
+
+
+
+
+
+
 # Calculator Class
 
 The `Calculator` class is a JavaScript implementation of a basic calculator that can perform arithmetic operations, handle keyboard input, and display calculation history.
+
+## Live Preview
+
+[Check out the live preview of the calculator here]('https://calc-innnowise.netlify.app/')
 
 ## Constructor
 

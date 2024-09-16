@@ -29,18 +29,7 @@
 //     ],
 //   },
 //   plugins: [
-//     new HtmlWebpackPlugin({
-//       template: './public/index.html',
-//     }),
-//   ],
-//   devServer: {
-//     static: {
-//       directory: path.join(__dirname, 'public'),
-//     },
-//     compress: true,
-//     port: 9000,
-//   },
-// };
+//     new HtmlWeb
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 

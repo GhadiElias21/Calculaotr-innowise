@@ -1,35 +1,4 @@
-// const path = require('path');
-// const HtmlWebpackPlugin = require('html-webpack-plugin');
 
-// module.exports = {
-//   mode: 'production', 
-//   entry: './src/index.js',
-//   output: {
-//     filename: 'main.js',
-//     path: path.resolve(__dirname, 'dist'),
-//     clean: true,
-//     publicPath: '/'
-//   },
-//   module: {
-//     rules: [
-//       {
-//         test: /\.css$/i,
-//         use: ['style-loader', 'css-loader'],
-//       },
-//       {
-//         test: /\.js$/,
-//         exclude: /node_modules/,
-//         use: {
-//           loader: 'babel-loader',
-//           options: {
-//             presets: ['@babel/preset-env'],
-//           },
-//         },
-//       },
-//     ],
-//   },
-//   plugins: [
-//     new HtmlWeb
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
